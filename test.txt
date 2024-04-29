@@ -3,4 +3,4 @@ new string
 new string_2
 new string_3
 
-new_string_4 conflict
+new_string_4 conflict + conflict
